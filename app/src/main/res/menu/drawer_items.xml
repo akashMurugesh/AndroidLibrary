@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/menu_group_top">
+        <item
+            android:id="@+id/navMenu"
+            android:icon="@drawable/ic_under_construction"
+            android:title="Menu" />
+    </group>
+
+    <group
+        android:id="@+id/menu_group_working">
+        <item
+            android:id="@+id/glide"
+            android:icon="@drawable/ic_glide"
+            android:title="Glide" />
+
+        <item
+            android:id="@+id/recyclerView"
+            android:icon="@drawable/ic_recycler_view"
+            android:title="Recycler View" />
+    </group>
+
+    <group
+        android:id="@+id/menu_group_under_dev">
+        <item
+            android:id="@+id/ud1"
+            android:icon="@drawable/ic_under_construction"
+            android:title="Under Development" />
+
+        <item
+            android:id="@+id/ud2"
+            android:icon="@drawable/ic_under_construction"
+            android:title="Under Development" />
+
+        <item
+            android:id="@+id/ud3"
+            android:icon="@drawable/ic_under_construction"
+            android:title="Under Development" />
+
+        <item
+            android:id="@+id/ud4"
+            android:icon="@drawable/ic_under_construction"
+            android:title="Under Development" />
+
+        <item
+            android:id="@+id/ud5"
+            android:icon="@drawable/ic_under_construction"
+            android:title="Under Development" />
+
+        <item
+            android:id="@+id/ud6"
+            android:icon="@drawable/ic_under_construction"
+            android:title="Under Development" />
+    </group>
+
+</menu>
